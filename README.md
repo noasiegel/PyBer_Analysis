@@ -17,7 +17,8 @@ This chart also highlights the higher the fare, the more the driver is paid. We 
 Our multiple line chart, depicted below, gives us some insight into trends over time.
 
 
-(insert chart here)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/110838228/192830276-d48dd67f-3af2-41b5-9a55-1e64776bd3f8.png)
+
 
 
 It's interesting to note that April 1st is a great time for rural drivers - fares spike, which means drivers make more. However, suburban drivers might not have such luck - their fares will only increase mid-month. Urban drivers might see an intense increase right before the turn of the month. Across all three city types, late February  is a great time to drive. ALl three fare amounts spike simultanously. 
