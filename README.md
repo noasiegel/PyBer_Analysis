@@ -21,7 +21,7 @@ Our multiple line chart, depicted below, gives us some insight into trends over 
 
 
 
-It's interesting to note that April 1st is a great time for rural drivers - fares spike, which means drivers make more. However, suburban drivers might not have such luck - their fares will only increase mid-month. Urban drivers might see an intense increase right before the turn of the month. Across all three city types, late February  is a great time to drive. ALl three fare amounts spike simultanously. 
+It's interesting to note that April 1st is a great time for rural drivers - fares spike, which means drivers make more. However, suburban drivers might not have such luck - their fares will only increase mid-month. Urban drivers might see an intense increase right before the turn of the month. Across all three city types, late February  is a great time to drive. All three fare amounts spike simultanously. 
 
 
 ## Summary
