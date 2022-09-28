@@ -6,7 +6,7 @@ The purpose of this analysis was to understand the differences in ride-share dat
 
 ## Results
 
-There is quite the discrenpancy among ride-sharing data between different kinds of cities. It is no surprose that urban areas bring in the most rides, drivers and total fare amount. However, its interesting to note that drivers are paid less, on average, in an urban area compared to both suburban and rural. The chart below highlights these discrepancies:
+There is quite the discrenpancy among ride-sharing data between different kinds of cities. It is no surprise that urban areas bring in the most rides, drivers and total fare amount. However, its interesting to note that drivers are paid less, on average, in an urban area compared to both suburban and rural. The chart below highlights these discrepancies:
 
 ![Screen Shot 2022-09-28 at 12 06 51 PM](https://user-images.githubusercontent.com/110838228/192830208-77a1d3c3-7c6e-4e2f-8546-84edf5a1c435.png)
 
